@@ -1,0 +1,47 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\hisoka\gitRepository\Totalworkspace\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\LinearRegression\com.python.pydev.analysis\v2_indexcache
+src.regression|1455726482339|C:\hisoka\gitRepository\Totalworkspace\workspace\LinearRegression\src\regression.py
+src.__init__|1455633812554|C:\hisoka\gitRepository\Totalworkspace\workspace\LinearRegression\src\__init__.py
+src.linearRegression|1455726492846|C:\hisoka\gitRepository\Totalworkspace\workspace\LinearRegression\src\linearRegression.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=MyLinearRegressor.__init__
+7=MyLinearRegressor.__stochastic_gradient_descent
+2=src.regression
+1=src.linearRegression
+3=MyLinearRegressor
+6=MyLinearRegressor.__batch_gradient_descent
+8=MyLinearRegressor.__improved_stochastic
+5=MyLinearRegressor.__feature_rescale
+-- END DICTIONARY
+-- START TREE 1
+7
+gra|1|gradAscent!10@
+loa|1|loadDataSet!10@
+mya|2|myAddTwo!10@myAdd!10@
+myl|1|MyLinearRegressor!17@
+mym|2|myMulti!10@myMinus!10@
+sto|2|stocGradAscentWithReg!10@stocGradAscent!10@
+upd|1|updateWeight!10@
+-- END TREE
+-- START TREE 2
+16
+X|1|X!3&19@
+__b|1|__batch_gradient_descent!3&18@
+__f|2|__feature_prepare!3&18@__feature_rescale!3&18@
+__i|2|__improved_stochastic!3&18@__init__!3&18@
+__s|1|__stochastic_gradient_descent!3&18@
+__t|1|__total_error!3&18@
+_ka|1|_kappa!4&19@
+_la|1|_lamb!4&19@
+_ma|1|_max_iter!4&19@
+_mu|1|_mu!5&19@
+_op|1|_opt!4&19@
+_si|1|_sigma!5&19@
+_w|3|_w!6&19@_w!7&19@_w!8&19@
+fit|1|fit!3&18@
+myl|1|mylinreg!3&19@
+pre|1|predict!3&18@
+-- END TREE
